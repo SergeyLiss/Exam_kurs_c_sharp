@@ -1,0 +1,15 @@
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\bin\Debug\net6.0\exam_001.exe
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\bin\Debug\net6.0\exam_001.deps.json
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\bin\Debug\net6.0\exam_001.runtimeconfig.json
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\bin\Debug\net6.0\exam_001.dll
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\bin\Debug\net6.0\exam_001.pdb
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.csproj.AssemblyReference.cache
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.AssemblyInfoInputs.cache
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.AssemblyInfo.cs
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.csproj.CoreCompileInputs.cache
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.dll
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\refint\exam_001.dll
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.pdb
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\exam_001.genruntimeconfig.cache
+C:\Users\slog2\OneDrive\Рабочий стол\seminar\Exam_kurs_c_sharp\exam_001\obj\Debug\net6.0\ref\exam_001.dll
