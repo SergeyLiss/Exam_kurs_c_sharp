@@ -1,15 +1,15 @@
-﻿int a = new Random().Next(10,10000);
+﻿int a = new Random().Next(10,100000);
 Console.Write("a = ");
 Console.Write(a);
 
-int ThreeChisl(int peremen)
+string ThreeChisl(int peremen)
 {
-    int x = peremen / 100;
-    x %= 10;
-    return x;
+    string x = Convert.ToString(peremen);
+    int y = x.Length;
+    if (y < 3) return "третьей цифры нет.";
+    return Convert.ToString(x[2]);
 }
 
 Console.Write(" -> ");
+Console.WriteLine(ThreeChisl(a));
 
-if(a < 100) Console.WriteLine("третьей цифры нет.");
-else Console.WriteLine(ThreeChisl(a));
