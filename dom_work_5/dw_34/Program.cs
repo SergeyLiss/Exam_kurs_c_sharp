@@ -33,5 +33,5 @@ void PrintMassiv(int[] massiv)
 }
 
 int[] masOne = MassivGeneration(100);
-//PrintMassiv(masOne);
+PrintMassiv(masOne);
 DivTo2InMas(masOne);

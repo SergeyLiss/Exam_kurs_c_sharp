@@ -33,5 +33,5 @@ void PrintMassiv(int[] massiv)
 }
 
 int[] masTwo = MassivGeneration(-100, 100);
-//PrintMassiv(masTwo);
+PrintMassiv(masTwo);
 SumNechPosition(masTwo);

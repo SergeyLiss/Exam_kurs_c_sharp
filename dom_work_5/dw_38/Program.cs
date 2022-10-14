@@ -42,5 +42,5 @@ void PrintMassiv(double[] massiv)
 }
 
 double[] masThree = MassivGeneration(-100, 100);
-//PrintMassiv(masThree);
+PrintMassiv(masThree);
 IntervalMinMax(masThree);
