@@ -18,7 +18,7 @@ int[,] FillingArray(int line = 4) // Вариант 2. От позиции (0,0)
     
     for(int i = 0; i < (line*line); i ++)
     {
-        Array[column, row] = i;
+        Array[column, row] = i+1;
         IndexMax[0, column] --;
         IndexMax[1, row] --;
 
